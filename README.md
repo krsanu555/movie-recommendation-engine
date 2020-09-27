@@ -6,8 +6,8 @@ The objective of this project is to recommend movies to the user based on
 
 ### Project description
 For this, we have used two approach
- 1. [Content Based Recommendation System]()
- 2. [Collaborative Filteing Recommendation System]()
+ 1. [Content Based Recommendation System](https://github.com/krsanu555/movie-recommendation-engine/blob/master/Content-Based-movies.ipynb)
+ 2. [Collaborative Filteing Recommendation System](https://github.com/krsanu555/movie-recommendation-engine/blob/master/Collaborative-Filtering-movies.ipynb)
 
 ### Set up
 1. Clone the repository
