@@ -20,8 +20,8 @@ cd movie-recommendation-engine
 ```
 3. Create a virtual environment and activate it (optional)
 ```
-virtualenv -p $(which python) .
-source bin/activate
+python3 -m venv env
+source env/bin/activate
 ```
 4. Install all libraries
 ```
