@@ -12,7 +12,7 @@ For this, we have used two approach
 ### Set up
 1. Clone the repository
 ```
-https://github.com/krsanu555/movie-recommendation-engine.git
+git clone https://github.com/krsanu555/movie-recommendation-engine.git
 ```
 2. Move inside the newly created repository
 ```
